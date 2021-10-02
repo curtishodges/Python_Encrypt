@@ -6,7 +6,6 @@ from random import *
 
 
 def welcome():
-    print("Welcome to Bob's encryption, a simple way to secure a message.")
     print("Please ensure that you keep the generated key safe as this is the only way to decrypt messages")
 
 
